@@ -1,1 +1,6 @@
+# log files
 test/error/*.log
+
+# temporary workspace
+/**/tbox/
+test/temp*
